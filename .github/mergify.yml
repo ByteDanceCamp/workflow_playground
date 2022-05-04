@@ -1,7 +1,6 @@
 pull_request_rules:
   - name: automatic merge for main when CI passes and 1 review and not WIP
     conditions:
-      - check-success=build
       - base=main
       - label!=work-in-progress
     actions:
