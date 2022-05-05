@@ -1,5 +1,5 @@
 pull_request_rules:
-  - name: automatic update
+  - name: auto update
     conditions:
       - -conflict
       - -draft
