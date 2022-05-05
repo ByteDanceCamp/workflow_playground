@@ -20,3 +20,7 @@ trim_trailing_whitespace = false
 
 [Dockerfile]
 indent_size = 4
+
+[LICENSE]
+indent_style = unset
+indent_size = unset
