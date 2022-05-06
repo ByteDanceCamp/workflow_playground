@@ -23,3 +23,8 @@ func TestHelloWorld6(t *testing.T) {
 
 func TestHelloWorld7(t *testing.T) {
 }
+
+func TestHelloWorld8(t *testing.T) {
+	_ = Add(1, 2)
+}
+
